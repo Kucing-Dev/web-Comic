@@ -2,8 +2,9 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>ComicDex</title>
+  <title>DARKFEED</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Creepster&display=swap" rel="stylesheet">
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://cdn.tailwindcss.com?plugins=line-clamp"></script>
 
@@ -13,7 +14,10 @@
 
 <!-- ================= NAVBAR ================= -->
 <nav class="fixed w-full z-50 bg-black px-6 py-4 flex justify-between items-center">
-  <h1 class="text-red-500 font-bold text-2xl">ComicDex</h1>
+  <h1 class="text-red-500 text-3xl tracking-widest"
+    style="font-family: 'Creepster', cursive;">
+  DARKFEED
+</h1>
 
   <input id="searchInput"
     placeholder="Search comic..."
@@ -29,10 +33,22 @@
 </div>
 
 <!-- ================= HERO ================= -->
-<section class="pt-28 pb-10 bg-gradient-to-r from-red-600 to-pink-600">
-  <div class="max-w-7xl mx-auto px-6">
-    <h2 class="text-4xl font-bold mb-2">Discover Comics & Manga</h2>
-    <p>Read your favorite comics anytime, anywhere</p>
+<section
+  class="pt-28 pb-20 bg-cover bg-center relative"
+  style="background-image: url('images/hero-horror.jpg');">
+
+  <!-- overlay gelap biar teks kebaca -->
+  <div class="absolute inset-0 bg-black/60"></div>
+
+  <div class="relative max-w-7xl mx-auto px-6">
+    <h2 class="text-5xl md:text-7xl font-bold mb-2 text-red-500"
+        style="font-family:'Creepster', cursive;">
+      DARKFEED
+    </h2>
+
+    <p class="text-lg text-slate-200">
+      Kumpulan Cerita Horor Netizen
+    </p>
   </div>
 </section>
 

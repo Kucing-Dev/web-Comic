@@ -123,32 +123,32 @@ const comics = [
   },
   {
     id: 21,
-    title: "Wajah di Cermin Bukan Milikku",
+    title: "jam 2 malam",
     genre: "Supernatural",
     image: "images/onepiece.jpg"
   },
   {
     id: 22,
-    title: "Aku Melihat Diriku Sendiri",
-    genre: "Psychological",
+    title: "susu",
+    genre: "Supernatural",
     image: "images/demonslayer.jpg"
   },
   {
     id: 23,
-    title: "Video yang Tidak Pernah Kuunggah",
-    genre: "Mystery",
+    title: "Lucid dream",
+    genre: "Psychological",
     image: "images/naruto.jpg"
   },
   {
     id: 24,
-    title: "Lemari yang Mengintip Balik",
-    genre: "Mystery",
+    title: "Sandal kuning",
+    genre: "Supernatural",
     image: "images/naruto.jpg"
   },
   {
     id: 25,
-    title: "Cermin yang Tidak Memantulkan Aku",
-    genre: "Psychological",
+    title: "kakak",
+    genre: "Supernatural",
     image: "images/naruto.jpg"
   },
   {
