@@ -383,6 +383,16 @@ function backHome() {
 }
 
 // ================= MOBILE MENU =================
-menuBtn.onclick = () => mobileMenu.classList.toggle("hidden");
+menuBtn.onclick = () => {
+  mobileMenu.classList.toggle("hidden");
+};
 
+//  CLOSE MENU MOBILE SAAT DESKTOP
+window.addEventListener("resize", () => {
+  if (window.innerWidth >= 768) {
+    mobileMenu.classList.add("hidden");
+  }
+});
+
+render();
 render();
