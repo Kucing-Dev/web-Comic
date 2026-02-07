@@ -26,55 +26,55 @@ const comics = [
   },
   {
     id: 5,
-    title: "Panggilan yang Tidak Pernah Aku Jawab",
+    title: "jika ini aku,lalu siapa yang ada di dalam bus??",
     genre: "Mystery",
     image: "images/naruto.jpg"
   },
   {
     id: 6,
-    title: "Wajah di Cermin Bukan Milikku",
-    genre: "Supernatural",
+    title: "suara nafas misterius",
+    genre: "Mystery",
     image: "images/onepiece.jpg"
   },
   {
     id: 7,
-    title: "Aku Melihat Diriku Sendiri",
-    genre: "Psychological",
+    title: "satpam",
+    genre: "Supernatural",
     image: "images/demonslayer.jpg"
   },
   {
     id: 8,
-    title: "Video yang Tidak Pernah Kuunggah",
-    genre: "Mystery",
+    title: "jangan ngeyel",
+    genre: "Supernatural",
     image: "images/naruto.jpg"
   },
   {
     id: 9,
-    title: "Lemari yang Mengintip Balik",
-    genre: "Mystery",
+    title: "kamar jenazah",
+    genre: "Supernatural",
     image: "images/naruto.jpg"
   },
   {
     id: 10,
-    title: "Cermin yang Tidak Memantulkan Aku",
-    genre: "Psychological",
+    title: "cari apa mas??",
+    genre: "Supernatural",
     image: "images/naruto.jpg"
   },
   {
     id: 11,
-    title: "Ada yang Tinggal di Balik Pohon",
+    title: "Rumah Mbah",
     genre: "Supernatural",
     image: "images/onepiece.jpg"
   },
   {
     id: 12,
-    title: "Bayangan di Dalam Air",
+    title: "Mahasiswa ghaib",
     genre: "Supernatural",
     image: "images/demonslayer.jpg"
   },
   {
     id: 13,
-    title: "Bayangan yang Tidak Punya Tubuh",
+    title: "sirih kapur",
     genre: "Supernatural",
     image: "images/naruto.jpg"
   },
@@ -268,6 +268,36 @@ const comics = [
   },
   {
     id: 45,
+    title: "Dapur yang Selalu Menyala",
+    genre: "Mystery",
+    image: "images/naruto.jpg"
+  },
+  {
+    id: 46,
+    title: "Ada yang Tinggal di Balik Pohon",
+    genre: "Supernatural",
+    image: "images/onepiece.jpg"
+  },
+  {
+    id: 47,
+    title: "Bayangan di Dalam Air",
+    genre: "Supernatural",
+    image: "images/demonslayer.jpg"
+  },
+  {
+    id: 48,
+    title: "Bayangan yang Tidak Punya Tubuh",
+    genre: "Supernatural",
+    image: "images/naruto.jpg"
+  },
+  {
+    id: 49,
+    title: "Taman Bermain Jam 3 Pagi",
+    genre: "Mystery",
+    image: "images/naruto.jpg"
+  },
+  {
+    id: 50,
     title: "Dapur yang Selalu Menyala",
     genre: "Mystery",
     image: "images/naruto.jpg"
