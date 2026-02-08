@@ -8,8 +8,9 @@ const comics = [
   },
   {
     id: 2,
-    title: "Kamar Nomor 0",
+    title: "Kamar pasien",
     genre: "Mystery",
+    description:"sudah tak seharusnya aku memperhatikan kamar itu",
     image: "KamarNomor0.png"
   },
   {
@@ -86,50 +87,50 @@ const comics = [
   },
   {
     id: 15,
-    title: "Dapur yang Selalu Menyala",
+    title: "Toko kelontong",
     genre: "Mystery",
     image: "images/naruto.jpg"
   },
   {
     id: 16,
-    title: "Lorong Terakhir",
+    title: "siapa yang berjalan di atas plafon?",
     genre: "Mystery",
     description:"Tidak ada yang bisa menjelaskan kapan lorong itu muncul, Orang-orang hanya sadar satu hal: sebelumnya lorong itu tidak ada di sana",
     image: "LorongTerakhir.png"
   },
   {
     id: 17,
-    title: "Kamar Nomor 0",
+    title: "Pohon mangga",
     genre: "Mystery",
     image: "KamarNomor0.png"
   },
   {
     id: 18,
-    title: "Suara dari Dalam Lemari",
+    title: "pantai terakhir",
     genre: "Mystery",
     image: "SuaraDariDalamLemari.png"
   },
   {
     id: 19,
-    title: "Tawa dari Dinding",
-    genre: "Mystery",
+    title: "Gerimis",
+    genre: "Supernatural",
     image: "TawaDariDinding.png"
   },
   {
     id: 20,
-    title: "Panggilan yang Tidak Pernah Aku Jawab",
+    title: "Pria yang menangis",
     genre: "Mystery",
     image: "images/naruto.jpg"
   },
   {
     id: 21,
-    title: "jam 2 malam",
-    genre: "Supernatural",
+    title: "Mati lampu",
+    genre: "Mystery",
     image: "images/onepiece.jpg"
   },
   {
     id: 22,
-    title: "susu",
+    title: "potret",
     genre: "Supernatural",
     image: "images/demonslayer.jpg"
   },
