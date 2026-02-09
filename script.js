@@ -154,25 +154,25 @@ const comics = [
   },
   {
     id: 26,
-    title: "Ada yang Tinggal di Balik Pohon",
-    genre: "Supernatural",
+    title: "Ucapan salam",
+    genre: "Mystery",
     image: "images/onepiece.jpg"
   },
   {
     id: 27,
-    title: "Bayangan di Dalam Air",
+    title: "Bayangan yg merangkak",
     genre: "Supernatural",
     image: "images/demonslayer.jpg"
   },
   {
     id: 28,
-    title: "Bayangan yang Tidak Punya Tubuh",
+    title: "mata",
     genre: "Supernatural",
     image: "images/naruto.jpg"
   },
   {
     id: 29,
-    title: "Taman Bermain Jam 3 Pagi",
+    title: "anak kecil",
     genre: "Mystery",
     image: "images/naruto.jpg"
   },
