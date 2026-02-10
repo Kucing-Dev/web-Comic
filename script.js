@@ -184,50 +184,50 @@ const comics = [
   },
   {
     id: 31,
-    title: "Lorong Terakhir",
+    title: "Kereta bayi",
     genre: "Mystery",
     description:"Tidak ada yang bisa menjelaskan kapan lorong itu muncul, Orang-orang hanya sadar satu hal: sebelumnya lorong itu tidak ada di sana",
     image: "LorongTerakhir.png"
   },
   {
     id: 32,
-    title: "Kamar Nomor 0",
+    title: "Alat musik 0",
     genre: "Mystery",
     image: "KamarNomor0.png"
   },
   {
     id: 33,
-    title: "Suara dari Dalam Lemari",
+    title: "Kucing",
     genre: "Mystery",
     image: "SuaraDariDalamLemari.png"
   },
   {
     id: 34,
-    title: "Tawa dari Dinding",
+    title: "wanita yang menangis",
     genre: "Mystery",
     image: "TawaDariDinding.png"
   },
   {
     id: 35,
-    title: "Panggilan yang Tidak Pernah Aku Jawab",
-    genre: "Mystery",
+    title: "Lift",
+    genre: "Supernatural",
     image: "images/naruto.jpg"
   },
   {
     id: 36,
-    title: "Wajah di Cermin Bukan Milikku",
+    title: "Rintihan",
     genre: "Supernatural",
     image: "images/onepiece.jpg"
   },
   {
     id: 37,
-    title: "Aku Melihat Diriku Sendiri",
-    genre: "Psychological",
+    title: "Bola",
+    genre: "Supernatural",
     image: "images/demonslayer.jpg"
   },
   {
     id: 38,
-    title: "Video yang Tidak Pernah Kuunggah",
+    title: "Amis",
     genre: "Mystery",
     image: "images/naruto.jpg"
   },
