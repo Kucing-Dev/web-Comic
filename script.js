@@ -233,25 +233,25 @@ const comics = [
   },
   {
     id: 39,
-    title: "Lemari yang Mengintip Balik",
+    title: "Darah menstruasi",
     genre: "Mystery",
     image: "images/naruto.jpg"
   },
   {
     id: 40,
-    title: "Cermin yang Tidak Memantulkan Aku",
+    title: "Shift malam",
     genre: "Psychological",
     image: "images/naruto.jpg"
   },
   {
     id: 41,
-    title: "Ada yang Tinggal di Balik Pohon",
+    title: "Adik perempuan",
     genre: "Supernatural",
     image: "images/onepiece.jpg"
   },
   {
     id: 42,
-    title: "Bayangan di Dalam Air",
+    title: "Cermin",
     genre: "Supernatural",
     image: "images/demonslayer.jpg"
   },
