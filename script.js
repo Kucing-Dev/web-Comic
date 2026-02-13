@@ -257,19 +257,19 @@ const comics = [
   },
   {
     id: 43,
-    title: "Bayangan yang Tidak Punya Tubuh",
-    genre: "Supernatural",
+    title: "perpustakaan",
+    genre: "Mystery",
     image: "images/naruto.jpg"
   },
   {
     id: 44,
-    title: "Taman Bermain Jam 3 Pagi",
+    title: "Dalam selimut",
     genre: "Mystery",
     image: "images/naruto.jpg"
   },
   {
     id: 45,
-    title: "Dapur yang Selalu Menyala",
+    title: "Kolong kasur",
     genre: "Mystery",
     image: "images/naruto.jpg"
   },
