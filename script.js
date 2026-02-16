@@ -299,7 +299,67 @@ const comics = [
   },
   {
     id: 50,
-    title: "Dapur yang Selalu Menyala",
+    title: "sssttss..",
+    genre: "Mystery",
+    image: "images/naruto.jpg"
+  },
+  {
+    id: 51,
+    title: "boneka beruang",
+    genre: "Supernatural",
+    image: "images/onepiece.jpg"
+  },
+  {
+    id: 52,
+    title: "kucing",
+    genre: "Supernatural",
+    image: "images/demonslayer.jpg"
+  },
+  {
+    id: 53,
+    title: "jalanan yg basah",
+    genre: "Mystery",
+    image: "images/naruto.jpg"
+  },
+  {
+    id: 54,
+    title: "hujan",
+    genre: "Supernatural",
+    image: "images/naruto.jpg"
+  },
+  {
+    id: 55,
+    title: "meneduh",
+    genre: "Supernatural",
+    image: "images/naruto.jpg"
+  },
+  {
+    id: 56,
+    title: "bandrek",
+    genre: "Supernatural",
+    image: "images/onepiece.jpg"
+  },
+  {
+    id: 57,
+    title: "haus",
+    genre: "Mystery",
+    image: "images/demonslayer.jpg"
+  },
+  {
+    id: 58,
+    title: "lembur",
+    genre: "Supernatural",
+    image: "images/naruto.jpg"
+  },
+  {
+    id: 59,
+    title: "pariwisata",
+    genre: "Mystery",
+    image: "images/naruto.jpg"
+  },
+  {
+    id: 60,
+    title: "mitos",
     genre: "Mystery",
     image: "images/naruto.jpg"
   }
